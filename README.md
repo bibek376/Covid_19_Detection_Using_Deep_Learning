@@ -11,6 +11,7 @@
 ## Table Of Content
 1. Project Descriptiom<br>
 2. Data Collection
+I collected data from kaggle, if you want to same data that i use in project, ping me at cu.18bcs6728@gmail.com
 
 
 # Feedback
